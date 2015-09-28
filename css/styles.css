@@ -1,0 +1,26 @@
+body {
+	margin : 0;
+	
+}
+
+table {
+	border-collapse: collapse;
+}
+
+#stickingMenu {
+	position : fixed;
+	top : 0;
+	width: 100%;
+	background-color : grey;
+	height : 5%;
+}
+#stickingMenu #washer {
+	width : 40%;
+	margin: 8px auto;	
+	text-align: justify;
+}
+#stickingMenu #washer span {
+	color: white; 
+	font-size: 17pt;
+}
+
